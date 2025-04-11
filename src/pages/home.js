@@ -6,7 +6,6 @@ import About from '../section/about';
 import Blockquote from '../section/blockquote';
 import Whatido from '../section/whatido';
 import Gallery from '../section/gallery';
-import Resume from '../section/resume';
 import Counter from '../section/counter';
 import Blog from '../section/blog';
 import Contact from '../section/contact';
@@ -67,7 +66,7 @@ function home() {
 
       {/* Gallery */}
       <section id="resume" className="pb-0">
-        <Resume/>
+        {/* <Resume/> */}
         <Counter/>
       </section>
 
