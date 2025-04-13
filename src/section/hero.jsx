@@ -39,7 +39,7 @@ const hero = () => {
                                 loop
                               />
                         </div>
-                        <ul className="list_location"
+                        {/* <ul className="list_location"
                             data-aos="fade-up"
                             data-aos-delay="600"
                             data-aos-duration="1000"
@@ -49,7 +49,7 @@ const hero = () => {
                             <li><span>France</span>Bodin, Chauveau</li>
                             <li><span>USA</span>Louisiana, Bayerfurt</li>
                             <li><span>German</span>Hamburg, Dortmund</li>
-                        </ul>
+                        </ul> */}
                     </div>
                 </div>
             </div>

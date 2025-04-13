@@ -58,11 +58,11 @@ const Navbar = function () {
                   Portfolio
                 </Link>
               </li>
-              {/* <li className="nav-item">
-                <Link className="nav-link transition" activeClass="active" spy to="resume">
-                  My resume
+              <li className="nav-item">
+                <Link className="nav-link transition" activeClass="active" spy >
+                  Gallery
                 </Link>
-              </li> */}
+              </li>
               {/* <li className="nav-item">
                 <Link className="nav-link transition" activeClass="active" spy to="blog">
                   Blog

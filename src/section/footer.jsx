@@ -13,12 +13,10 @@ const footer = () => {
                     </div>
                     <div className="col-md-6">
                         <div className="social-icons">
-                            <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"><i className="fa fa-facebook"></i></a>
-                            <a href="https://twitter.com" target="_blank" rel="noreferrer"><i className="fa fa-twitter"></i></a>
-                            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><i className="fa fa-linkedin"></i></a>
-                            <a href="https://pinterest.com/" target="_blank" rel="noreferrer"><i className="fa fa-pinterest"></i></a>
-                            <a href="https://www.envato.com" target="_blank" rel="noreferrer"><i className="fa fa-rss"></i></a>
-                        </div>
+                        <a href="https://www.facebook.com/mequrythink?mibextid=LQQJ4d" target="_blank" rel="noreferrer"><i className="fa fa-facebook"></i></a>
+                        <a href="https://www.instagram.com/mequrythink?igsh=MWQ4dDdoamV1cGtuNQ%3D%3D&utm_source=qr" target="_blank" rel="noreferrer"><i className="fa fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/mequrythink?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer"><i className="fa fa-linkedin"></i></a>
+                                    </div>
                     </div>
                 </div>
             </div>
