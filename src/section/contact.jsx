@@ -27,7 +27,7 @@ function contact() {
                 failed.classList.add('show');
             });
 
-        // e.target.reset();
+        e.target.reset();
     }
 
     return (
