@@ -955,6 +955,10 @@ h3.s_border {
   border-radius: .25rem;
   transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
+.form-control::placeholder{
+  color:white
+}
+
 .form-border input[type="text"]{
   padding: 8px;
   margin-bottom: 20px;

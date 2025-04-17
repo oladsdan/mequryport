@@ -67,8 +67,8 @@ const Gallery= function() {
                         >
                         <div className="card-image-1">
                             <div className="d-text">
-                                <h3>Archi Interior Design</h3>
-                                <h5 className="d-tag">website</h5>
+                                {/* <h3>Archi Interior Design</h3>
+                                <h5 className="d-tag">website</h5> */}
                             </div>
                             <img src="./img/gallery/1.jpg" alt="gallery"/>
                         </div>
@@ -79,8 +79,8 @@ const Gallery= function() {
                         > 
                         <div className="card-image-1">
                             <div className="d-text">
-                                <h3>Self Hosted Video</h3>
-                                <h5 className="d-tag">website</h5>
+                                {/* <h3>Self Hosted Video</h3>
+                                <h5 className="d-tag">website</h5> */}
                             </div>
                             <img src="./img/gallery/2.jpg" alt="gallery"/>
                         </div>
@@ -91,8 +91,8 @@ const Gallery= function() {
                         >
                         <div className="card-image-1">
                             <div className="d-text">
-                                <h3>Justica Lawyer</h3>
-                                <h5 className="d-tag">website</h5>
+                                {/* <h3>Justica Lawyer</h3>
+                                <h5 className="d-tag">website</h5> */}
                             </div>
                             <img src="./img/gallery/3.jpg" alt="gallery"/>
                         </div>
@@ -103,8 +103,8 @@ const Gallery= function() {
                         >
                         <div className="card-image-1">
                             <div className="d-text">
-                                <h3>Bluetec App</h3>
-                                <h5 className="d-tag">website</h5>
+                                {/* <h3>Bluetec App</h3>
+                                <h5 className="d-tag">website</h5> */}
                             </div>
                             <img src="./img/gallery/4.jpg" alt="gallery"/>
                         </div>
@@ -115,8 +115,8 @@ const Gallery= function() {
                         >
                         <div className="card-image-1">
                             <div className="d-text">
-                                <h3>Uhost Hosting</h3>
-                                <h5 className="d-tag">website</h5>
+                                {/* <h3>Uhost Hosting</h3>
+                                <h5 className="d-tag">website</h5> */}
                             </div>
                             <img src="./img/gallery/5.jpg" alt="gallery"/>
                         </div>
@@ -127,8 +127,8 @@ const Gallery= function() {
                         >
                         <div className="card-image-1">
                             <div className="d-text">
-                                <h3>Bolo Creative</h3>
-                                <h5 className="d-tag">website</h5>
+                                {/* <h3>Bolo Creative</h3>
+                                <h5 className="d-tag">website</h5> */}
                             </div>
                             <img src="./img/gallery/6.jpg" alt="gallery"/>
                         </div>

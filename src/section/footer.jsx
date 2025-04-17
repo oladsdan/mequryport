@@ -8,7 +8,7 @@ const footer = () => {
                 <div className="row">
                     <div className="col-md-6">
                         <a href="https://www.envato.com" target="_blank" rel="noreferrer">
-                            <span className="copy">&copy; Copyright {currentYear} - Kyros by Designesia</span>
+                            <span className="copy">&copy; Copyright {currentYear} - MequryThink</span>
                         </a>
                     </div>
                     <div className="col-md-6">

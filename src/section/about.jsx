@@ -52,7 +52,7 @@ const hero = () => {
 					>
                     <AnimatedProgressProvider
 				        valueStart={0}
-				        valueEnd={90}>
+				        valueEnd={93}>
 				        {value => {
 				          const roundedValue = Math.round(value);
 				          return (
@@ -112,7 +112,7 @@ const hero = () => {
                 	>
                     <AnimatedProgressProvider
 				        valueStart={0}
-				        valueEnd={80}>
+				        valueEnd={90}>
 				        {value => {
 				          const roundedValue = Math.round(value);
 				          return (
@@ -142,7 +142,7 @@ const hero = () => {
                 	>
                     <AnimatedProgressProvider
 				        valueStart={0}
-				        valueEnd={75}>
+				        valueEnd={85}>
 				        {value => {
 				          const roundedValue = Math.round(value);
 				          return (
@@ -161,7 +161,7 @@ const hero = () => {
 				          );
 				        }}
 				      </AnimatedProgressProvider>
-				      <h4 className="mt-2">Monitors & Viewfinders</h4>
+				      <h4 className="mt-2">Capture One</h4>
                 </div>
 			</div>
 		</div>

@@ -22,7 +22,7 @@ const hero = () => {
                             data-aos-duration="1000"
                             data-aos-easing="ease"
                             data-aos-once="true"
-                            >I Am Mequry Think
+                            >I Am Mequry
                         </h6>
                         <div className="spacer-20"></div>
                         <div className="h1_big"
@@ -33,7 +33,7 @@ const hero = () => {
                             data-aos-once="true"
                             >
                             <Typed
-                                strings={["EDITOR", "CONTENT-CREATOR" , "PHOTOGRAPHER", "DRONE-PILOT", "MC", "PRODUCER"]}
+                                strings={["EDITOR", "CONTENT-CREATOR" , "CINEMATOGRAPHER", "DRONE-PILOT", "MC", "PRODUCER"]}
                                 typeSpeed={60}
                                 backSpeed={50}
                                 loop
