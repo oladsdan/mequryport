@@ -4,7 +4,7 @@ import AOS from 'aos';
 AOS.init();
 
 
-const image1 ="./img/background/2.jpg";
+const image1 ="./img/background/2.png";
 
 const Mblockquote = () => {
     return(
@@ -24,7 +24,10 @@ const Mblockquote = () => {
                             <div className="spacer-double"></div>
                             <blockquote className="q-big">
                                 <i className="d-big icon_quotations"></i>
-                                 The only way to do great works is to love what you do.
+                                <span className='d-quote-text'>
+                                    The only way to do great works is to love what you do.
+                                </span>
+                                 
                                 <span className="d-quote-by">Mequry Think</span>
                             </blockquote>
                             <div className="spacer-double"></div>

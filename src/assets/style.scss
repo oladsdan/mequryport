@@ -493,9 +493,19 @@ blockquote.q-big .d-big {
   padding-left: 20px;
   line-height: 1.5em;
 }
+
+.d-quote-text{
+  border: solid 1px rgba(255, 255, 255, .2);
+  // background-color: red;
+  background-color: rgba(121, 109, 109, 0.5);
+  padding: 10px;
+  border-radius: 20px;
+
+}
 .icon_quotations::before {
   content: "\7b";
 }
+
 .de_3d-box {
   display: flex;
   align-items: center;
