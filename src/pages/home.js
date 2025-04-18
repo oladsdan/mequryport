@@ -7,7 +7,6 @@ import Blockquote from '../section/blockquote';
 import Whatido from '../section/whatido';
 import Gallery from '../section/gallery';
 import Counter from '../section/counter';
-import Blog from '../section/blog';
 import Contact from '../section/contact';
 import Footer from '../section/footer';
 import Preloader from "../layout/Preloader";
