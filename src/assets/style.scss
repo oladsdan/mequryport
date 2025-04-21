@@ -993,6 +993,13 @@ h3.s_border {
   }
 }
 
+
+.counter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 /* blog */
 .bloglist.item {
   margin-right: 25px;

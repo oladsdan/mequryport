@@ -87,7 +87,7 @@ function home() {
 
       <div className="float-text">
           <div className="de_social-icons">
-              <a href="https://www.facebook.com/mequrythink?mibextid=LQQJ4d" target="_blank" rel="noreferrer"><i className="fa fa-facebook"></i></a>
+              <a href="https://www.facebook.com/share/16KSrJYdZg/?mibextid=wwXIfr" target="_blank" rel="noreferrer"><i className="fa fa-facebook"></i></a>
               <a href="https://www.instagram.com/mequrythink?igsh=MWQ4dDdoamV1cGtuNQ%3D%3D&utm_source=qr" target="_blank" rel="noreferrer"><i className="fa fa-instagram"></i></a>
               <a href="https://www.linkedin.com/in/mequrythink?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer"><i className="fa fa-linkedin"></i></a>
               

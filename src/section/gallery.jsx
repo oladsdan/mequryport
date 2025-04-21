@@ -20,8 +20,6 @@ const Gallery= function() {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [viewerOpen, setViewerOpen] = useState(false);
 
-    console.log(photosList);
-
 
 
     const openViewer = (index) => {

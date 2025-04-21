@@ -12,7 +12,7 @@ const Mblockquote = () => {
           <Parallax className="py-5" bgImage={image1} strength={300}>  
           <div className="py-5 position-relative">
                 <div className="container">
-                    <div className="row">
+                    <div className="row counter">
                         <div className="col-md-3">
                             <div className="de_count text-center">
                                 <h3 className="timer"
@@ -22,13 +22,7 @@ const Mblockquote = () => {
                               data-aos-easing="ease"
                               data-aos-once="true"
                                   >
-                                    <CountUp
-                                      start={0}
-                                      end={8240}
-                                      duration={10}
-                                      useEasing={true}
-                                      separator=","
-                                    />
+                                    8,240+
                                 </h3>
                                 <span>Hours of Works</span>
                             </div>
@@ -42,13 +36,7 @@ const Mblockquote = () => {
                               data-aos-duration="1000"
                               data-aos-easing="ease"
                               data-aos-once="true"
-                                  ><CountUp
-                                      start={0}
-                                      end={315}
-                                      duration={10}
-                                      useEasing={true}
-                                      separator=","
-                                    /></h3>
+                                  > 3,000+ </h3>
                                 <span>Projects Done</span>
                             </div>
                         </div>
@@ -61,18 +49,12 @@ const Mblockquote = () => {
                               data-aos-duration="1000"
                               data-aos-easing="ease"
                               data-aos-once="true"
-                                  ><CountUp
-                                      start={0}
-                                      end={250}
-                                      duration={10}
-                                      useEasing={true}
-                                      separator=","
-                                    /></h3>
+                                  > 400+</h3>
                                 <span>Satisfied Customers</span>
                             </div>
                         </div>
 
-                        <div className="col-md-3">
+                        {/* <div className="col-md-3">
                             <div className="de_count text-center">
                                 <h3 className="timer"
                                   data-aos="fade"
@@ -89,7 +71,7 @@ const Mblockquote = () => {
                                     /></h3>
                                 <span>Awards Winning</span>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
