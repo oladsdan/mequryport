@@ -161,7 +161,7 @@ const hero = () => {
 				          );
 				        }}
 				      </AnimatedProgressProvider>
-				      <h4 className="mt-2">Capture One</h4>
+				      <h4 className="mt-2">Davinci Resolve</h4>
                 </div>
 			</div>
 		</div>
